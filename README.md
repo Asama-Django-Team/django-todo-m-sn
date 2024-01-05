@@ -1,1 +1,1 @@
-# mongard-django-sn
+# AI Blog
